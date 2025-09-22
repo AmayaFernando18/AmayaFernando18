@@ -43,23 +43,26 @@
 ---
 
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center"> 
 
-  <!-- Programming Languages -->
+  <h3 align="center">Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css" />
   <br/>
 
   <!-- Frameworks & Libraries -->
+  <h3 align="center">Web Development</h3>
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel,dotnet" />
   <br/>
 
   <!-- Databases -->
+  <h3 align="center">Databases</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   <br/>
 
   <!-- Tools & Platforms -->
+  <h3 align="center">Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,postman,azure,figma" />
 
 </p>
