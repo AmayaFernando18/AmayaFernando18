@@ -44,40 +44,22 @@
 
 
 <h3 align="center">Languages and Tools</h3>
+
 <p align="center"> 
 
-<!-- Programming Languages -->
-<p align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/></a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="50" height="50"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="50"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a>
-</p>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css" />
+  <br/>
 
-<!-- Frameworks & Libraries -->
-<p align="center">
-<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg" alt="reactjs" width="50" height="50"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="50" height="50"/></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="50" height="50"/></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8j5kT9reVMceu_0gsvyfczvk_qJ1pgeWzUA&s" alt="asp.net" width="50" height="50"/></a>
-</p>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel,dotnet" />
+  <br/>
 
-<!-- Databases -->
-<p align="center">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50" height="50"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/></a>
-</p>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <br/>
 
-<!-- Tools & Platforms -->
-<p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/></a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMicrosoft_Azure.svg&psig=AOvVaw0UH_YuRWEXamcquUb5Hgji&ust=1758642713038000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODIk-Tc7I8DFQAAAAAdAAAAABAE" alt="azure" width="50" height="50"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://s3-alpha.figma.com/hub/file/2167104317601928565/6fe8c744-e5e1-40f1-a462-9d1793090d6e-cover.png" alt="figma" width="50" height="50"/></a>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,postman,azure,figma" />
 
 </p>
