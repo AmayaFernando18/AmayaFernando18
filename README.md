@@ -48,21 +48,29 @@
 <p align="center"> 
 
   <h3 align="center">Programming Languages</h3>
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css" />
+  </p>
   <br/>
 
   <!-- Frameworks & Libraries -->
   <h3 align="center">Web Development</h3>
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel,dotnet" />
+  </p>
   <br/>
 
   <!-- Databases -->
   <h3 align="center">Databases</h3>
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  </p>
   <br/>
 
   <!-- Tools & Platforms -->
   <h3 align="center">Tools & Platforms</h3>
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,azure,figma" />
+  </p>
 
 </p>
