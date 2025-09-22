@@ -21,7 +21,7 @@
   
     </td>
     <td width="70%" align="center">
-      <img align="center" alt="Coding" width="800" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhNG14MnhxMm1peWNrZ3l4enl0aXoyNnFyYmg2bHMyOXR4dzFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
+      <img align="center" alt="Coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Felouafihiba%2Felouafihiba&psig=AOvVaw1J1wEYLurQdiTRO8FbsCKd&ust=1758642316954000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICa7ajb7I8DFQAAAAAdAAAAABBO">
     </td>
   </tr>
 </table>
