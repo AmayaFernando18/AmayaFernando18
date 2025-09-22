@@ -17,7 +17,7 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
   <tr>
     <td width="50%" align="left">
     
-- 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
+- 🧑‍🎓 I'm an IT & Management undergraduate at **University of Moratuwa**
   
 -  🌱 I’m currently learning new technologies
 
@@ -27,7 +27,7 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
   
     </td>
     <td width="70%" align="center">
-      <img align="center" alt="Coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dtMTBqMW1iMTFvOGdtaTd3bW96cHF1aWF0dzY4c3plNXJ0NHpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+      <img align="center" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhNG14MnhxMm1peWNrZ3l4enl0aXoyNnFyYmg2bHMyOXR4dzFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
     </td>
   </tr>
 </table>
@@ -40,9 +40,9 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
 
 <h3 align="center">Contact:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ishanhansakasilva" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/LinkedIn.svg" alt="ishanhansakasilva" height="50" width="50" /></a>
-<a href="https://web.facebook.com/IshanHansakaSilva" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/IshanHansaka/icons/fb.svg" alt="Ishan Hansaka Silva" height="50" width="50" /></a>
-<a href="https://www.instagram.com/_is.hanz_/" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Instagram.svg" alt="_is.hanz_" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/amaya-fernando" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/LinkedIn.svg" alt="amaya" height="50" width="50" /></a>
+<a href="https://www.facebook.com/share/1JRUCKaBBH/a" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/IshanHansaka/icons/fb.svg" alt="amaya" height="50" width="50" /></a>
+<a href="https://www.instagram.com/___amaya__fernando_?igsh=Z2U2ZWkwNXZjOTV3" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Instagram.svg" alt="amaya" height="50" width="50" /></a>
 
 </p>
 
@@ -61,13 +61,16 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="50"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/></a>
+</p>
 
 <!-- Frameworks & Libraries -->
+<p align="center">
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg" alt="reactjs" width="50" height="50"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="50" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="50" height="50"/></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/ASP.NET.svg" alt="asp.net" width="50" height="50"/></a>
+</p>
 
 <!-- Databases -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50" height="50"/></a>
