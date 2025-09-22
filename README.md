@@ -26,10 +26,6 @@
   </tr>
 </table>
 
----
-
-
-
 
 
 <h3 align="center">Contact:</h3>
@@ -44,6 +40,9 @@
 
 
 <h2 align="center">Languages and Tools</h2>
+
+
+
 ---
 
 <p align="center"> 
@@ -66,7 +65,7 @@
   <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   </p>
-  <br/>
+ 
 
   <!-- Tools & Platforms -->
   <h3 align="center">Tools & Platforms</h3>
