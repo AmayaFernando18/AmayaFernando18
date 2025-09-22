@@ -26,8 +26,8 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
 - 📫 How to reach me **fdoamaya18@gmail.com**
   
     </td>
-    <td width="50%" align="center">
-      <img align="center" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dtMTBqMW1iMTFvOGdtaTd3bW96cHF1aWF0dzY4c3plNXJ0NHpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+    <td width="70%" align="center">
+      <img align="center" alt="Coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dtMTBqMW1iMTFvOGdtaTd3bW96cHF1aWF0dzY4c3plNXJ0NHpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
     </td>
   </tr>
 </table>
@@ -53,6 +53,7 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
 <p align="center"> 
 
 <!-- Programming Languages -->
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="50" height="50"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/></a>
