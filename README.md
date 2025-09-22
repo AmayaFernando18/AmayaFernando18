@@ -1,10 +1,4 @@
-## Hi there 👋
 
-# Hi, I'm Amaya Fernando 👋
-
-I'm an IT & Management undergraduate, passionate about building projects and exploring new technologies.  
-
----
 
 
 
@@ -27,7 +21,7 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
   
     </td>
     <td width="70%" align="center">
-      <img align="center" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhNG14MnhxMm1peWNrZ3l4enl0aXoyNnFyYmg2bHMyOXR4dzFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
+      <img align="center" alt="Coding" width="800" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNhNG14MnhxMm1peWNrZ3l4enl0aXoyNnFyYmg2bHMyOXR4dzFjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
     </td>
   </tr>
 </table>
@@ -73,11 +67,14 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
 </p>
 
 <!-- Databases -->
+<p align="center">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50" height="50"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/></a>
+</p>
 
 <!-- Tools & Platforms -->
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Azure.svg" alt="azure" width="50" height="50"/></a>
