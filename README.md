@@ -6,13 +6,7 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
 
 ---
 
-## 👨‍🎓 About Me
-- 🎓 Undergraduate at University of Moratuwa
-- 🌱 Currently learning React, ASP.NET, PostgreSQL, and Tailwind CSS
-- 💡 Passionate about solving real-world problems with tech
-- 📫 Reach me at: amaya.fernando@example.com
 
----
 
 <h1 align="center">Hi, I'm Amaya Fernando <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height= 35px></h1>
 
@@ -33,7 +27,7 @@ I'm an IT & Management undergraduate, passionate about building projects and exp
   
     </td>
     <td width="50%" align="center">
-      <img align="center" alt="Coding" width="250" src="https://iconscout.com/lottie-animation/female-web-developer-animation_6031664">
+      <img align="center" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dtMTBqMW1iMTFvOGdtaTd3bW96cHF1aWF0dzY4c3plNXJ0NHpxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
     </td>
   </tr>
 </table>
