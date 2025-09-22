@@ -30,7 +30,7 @@
 
 
 
----
+
 
 <h3 align="center">Contact:</h3>
 <p align="center">
@@ -44,6 +44,7 @@
 
 
 <h2 align="center">Languages and Tools</h2>
+---
 
 <p align="center"> 
 
@@ -51,14 +52,14 @@
   <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css" />
   </p>
-  <br/>
+  
 
   <!-- Frameworks & Libraries -->
   <h3 align="center">Web Development</h3>
   <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel,dotnet" />
   </p>
-  <br/>
+  
 
   <!-- Databases -->
   <h3 align="center">Databases</h3>
