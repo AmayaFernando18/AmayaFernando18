@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Amaya Fernando <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height= 35px></h1>
+<h1 align="center">Hi, I'm Amaya Fernando <img src='https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif' height= 35px></h1>
 
 
 
